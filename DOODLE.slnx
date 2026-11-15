@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DOODLE/DOODLE.vcxproj" Id="52173ab5-02b7-4ac7-b3e7-8811fd8e32ac" />
+</Solution>
