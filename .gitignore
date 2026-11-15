@@ -9,3 +9,4 @@ Release/
 *.log
 *.user
 *.dll
+!External/SFML/bin/*.dll
